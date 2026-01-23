@@ -1,4 +1,4 @@
-Copyright © 2026 D J
+Copyright © 2026
 
 All rights reserved.
 This repository and its contents are not licensed for use, modification,
