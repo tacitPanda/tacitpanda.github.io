@@ -1,0 +1,18 @@
+# Site settings
+title: Galea I.T. Blog
+description: IT & Cybersecurity Insights
+baseurl: "" # Leave empty if using custom domain
+url: "https://galeatech.com" # Replace with your actual domain
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Exclude your main index.html from Jekyll processing
+exclude:
+  - README.md
+  - CNAME
+
+# Keep your main site files as static assets
+include:
+  - index.html
